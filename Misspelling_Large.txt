@@ -2434,7 +2434,7 @@ goat: got gote
 god: gad
 godforsaken: god_forsaken
 goes: go's gos gose
-going: gomeing goning gowing
+going: gomeing goning gowing gojing
 golden: gloden goldin
 goldfish: gold_fish
 golliwogs: golly-wogs
