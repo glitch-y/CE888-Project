@@ -27,11 +27,6 @@ French: Franch feirne fench freach
 Friday: Firday
 Hallowe'en: hallowen
 Hitler: Hitlar
-I: a and are has he i if is it iy ld we
-I'd: I'de I'ed I'ld
-I'll: Ile Ill
-I'm: I'me I'n im
-I've: I'v Iev
 Indians: Indian's
 Ireland: Irland
 Irish: Iresh
@@ -67,7 +62,6 @@ Victorian: vitiorian
 Wednesday: Wdendsdy Wedensday Wensday
 Welsh: Wesh
 X-rays: exrays
-a: I ah an and are as the
 a-quiver: aquiver
 a_bit: abit
 a_few: afew
@@ -275,7 +269,6 @@ altogether: all_together alltogether atlogeher
 alumnae: alumni
 alumni: alamina alimui allumi allumine allumini allumn allumna allumnae allumney allumni allumnie allumny allunie alluniny allunmini almni almue alongny aloumey aluimna aluma alumanae alumani alumany alumbine alumi alumie alumin alumini aluminie aluminum alummne alumn alumna alumnae alumnee alumnia alumnie alumnigh alumnii alumnis alumnium alumny alumog alumuna alumuni alunie alunina aluny anlumni anumny elemni illumna illumni ilumi iluminun ilumni ilunni ulluni ulumnigh umluiny
 always: all_way all_way's all_ways allway allway's allways alway alway's alwaysed lowas
-am: an ham
 amateur: amatuer
 ambiguity: amibuity
 ambition: ambishion ambision ammbision
@@ -292,8 +285,6 @@ ample: ampile ampull
 amuse: ammuse
 amusement: ammusement amusment
 amusing: amsing
-an: a am and on un
-an_hour: anhour
 analogous: analagous
 analyse: analiss
 analysed: analised
@@ -301,7 +292,6 @@ analysing: aalysing
 analysis: alalasis analagys analasys analasysis analaysis analazy analazyis analess analias analiasus analices analicis analises analisies analisis analisise analisous analiss analissis analisyics analisys analizes anallausus anallisec anallises anallysis analoyas analsis analsys analyes analygus analyisis analys analyse analyses analysys analyzes analyzise ananalysis anaslis anatislus anayalis anayalsis anayles anaylis anaylisis anaylsis anaylusis anella anilestic aniliar anlaysis anlices anlisles annalases annalasias annalasis annalisas annaliscis annalises annalisis annalisise annalisises annalisous annaliss annalizes annallasis annaloses annalsutes annalyasis annalyis annalylisis annalysis annasislys annaylis annaylisis anneylesses annicalys annlazes annsylis annylas annylasis annylis annylsis anolysis any_aliss anyelsis enalicis unalisis
 analyze: analize analyse
 ancient: acient anceint
-and: I a aand an ane anf are so than
 angel: angell angle
 angels: angles
 angle: angel angles
@@ -387,10 +377,6 @@ approximate: abpricate abrusimate apoximate appamate appoccimate appocimate appo
 approximately: acprocimatly acproxapenly acproximently aposimatly apoximatly appoxamently appoxantly appoximately approachmently approarimatly approcimantly approcimate approcimately approcimatly approcimently approcinately approcoimently approcxmately approimially appromaitly appromariley appromaxiately appromentally appromentaly appromexally appromimly appromixaly appromixately approperatly approrilmately approsemently approsomently approxamately approxamatly approxamentely approxamently approxametly approxamontly approxanatly approxiamatly approxiametely approxiametly approximatingly approximatly approximentally approximently approximinately approximitely approximitly approximity approxinatly approxitaly approxmatally approxmately approxmatily approxmatly approxmently approxmetly approxmiately approxomantly approxomately approxomatly approxonately appxoromatly aprocemently aprocimately aprockamently aprockemly aprocmently aprocmetly aprocomently aprocumently apromaly aprominaxley aprosimatly aprosomately aprosommently aproxamately aproxamatly aproxamently aproxcintly aproxiatly aproximately aproximatly aproximently aproximitty aproximonthly aproximotely aproxinantly aproxmentally aproxmetly aproxmiatilly aproxomated apxormanately axkprocanlently axprocksimadle ococmonty opproxamatly opproxsimately
 approximations: appoximations
 archaeological: archeological
-are: aer ah anr ar aree arre arte er oar or ore our r ra rae rau re rea rer rir run thet ur vea
-area: are eary
-aren't: arn't
-arena: areana
 arguing: argueing aurgueing aurguing
 argument: aguement arguement aurgument
 argumentative: argumentitive
@@ -418,8 +404,6 @@ article: arctical artekal artical
 articles: articals
 artificial: artefishel artifical
 artist: artest
-as: a aas als asw at has hase have his is saw tes was
-as_well: aswell
 ascertain: accertain accertained acertain acertained ascertaine ascertained ascertan ascertiau ascertoined ascurtain asentain asertain asertained assatain asscertain assertain assertainal assertaine assertained assertaining assertan assertant assertion assortain assrtain asstained assterane asstertain assurtain assurtained asterane astertain astertained asurtaine asurtand asurtane
 ascertained: acsertained
 ashamed: ashame ashed
@@ -454,10 +438,6 @@ asymmetric: assymmetric
 asymmetrical: assymmetrical assymnerical
 asymmetry: assymmetry assymnetry asyme
 asynchronously: asyncronously
-at: a al an as att
-at_all: atall
-at_least: atleast
-ate: aet
 athlete: athlette
 athletic: atheletic
 athletics: athaletics atheletics athetics
@@ -623,7 +603,7 @@ begins: begines
 begun: began begen begon
 behaviour: behave behaver behavor
 behind: be_coem be_had be_hand be_hane be_hide be_hin be_hind be_hive be_hund be_i be_id bea_hidn behand beher behid behide behined behing behnd beid beind bert bey-hind beyhid bhid bhind bhred bih bihind bind bo_hane byhind dan datord de_hind dehad dehowl ied
-being: be beeing been bi bieing bieng
+being: be beeing bi bieing bieng
 belief: balhot becirf bedneth beilief beive beleaf beleave belef belefe belefer beleif beleive beleve belever belf belft beliefe believe belif belife belifer belive belives belneih belve beneafe beneeth benef beneth beneve benfe benith best beuth bielife bilifaf blef blefe buagh buesf dearen deleres derief dlif pelef releaf releafl rellferll vinfihe
 believe: beleive belief belive
 believed: beleived
@@ -2482,7 +2462,7 @@ gratitude: graditude
 gravy: gravey
 gray: grae
 grease: greas gres
-great: act and carot cat cater coird crat crate cret fatd fod frat frate gaet gant gart garte gat gata gate gater gatr geant geart geat gent gert gerted get ggot gleent gorold gote graet grait grant grat grate greater grent gret grete grit grt grut guat seing thunte
+great: act carot cat cater coird crat crate cret fatd fod frat frate gaet gant gart garte gat gata gate gater gatr geant geart geat gent gert gerted get ggot gleent gorold gote graet grait grant grat grate greater grent gret grete grit grt grut guat seing thunte
 greater: grater gretaer
 greatest: gratest greastest
 greatly: grately gratly
@@ -2598,8 +2578,6 @@ have: a after fo had haf har has hav haven having hove naf of
 haven't: havein't havn't
 having: have-ing haveing hower
 hawk: hark
-he: and had her here hey hi him if the
-he's: his is
 head: had haed hed
 headache: headace
 headmaster: Head-Master head-master head_marster head_master heardmaster hed_master hedmaster
@@ -2661,14 +2639,12 @@ high-ranking: highranking
 higher: hg hier hire
 highest: heightst hiest
 hill: hil hile
-him: em ham he hem heme hime hin his hon thi
 himself: him_sall him_self himselfe hinself
 hindrance: hinderance hinderence
 hinge: hindge hing
 hint: hent
 hippopotamus: hippopatams
 hire: higher
-his: has he he's hed hes him is it its this
 history: histroy histry
 hit: hat het it
 hitting: hiting
@@ -4891,7 +4867,6 @@ shallow: shalow
 shape: sap sape saple saw scap shame shap shapp sharp sheap shep spahe thege
 share: shair shear
 shattered: shaterd shatterd
-she: see the
 shed: ched shad
 sheds: shed
 sheep: seep sheepe
@@ -4978,12 +4953,11 @@ single: singel
 singular: singulaur
 sink: senk sick sinck
 sir: ser
-sit: che cta sat sater seat sent set siet sist site sot yahlets
+sit: che cta sat sater siet sist site sot yahlets
 sitting: siting
 situated: situtated
 situation: sitt situating
 situations: situation
-six: sex
 sixteen: sixten sixtine
 sixth: six
 sixty: sixtey
@@ -5531,14 +5505,12 @@ therefore: there_for therefoe therefor therfore
 thermawear: thermawere thermawhere
 these: tes the theas thease thees theis there theres thes thess theys this thiys
 theses: thses
-they: thah thaire thar that thay the thea their theire ther there thir thy
-they'll: their
-they're: the their there thier
+they: thah thaire thar thay thea theire ther thir thy
 thick: thik
 thief: theaf thefe theif
 thieves: feste fevers theifs theiths theives thesve thevies thiefs thies thifeves thives
 thimble: thimbel thinble
-thin: feh fein fen fib fihh fin fine fing finn flen fomer foram frene fthi inen lind rune sin than the thehe then ther thiden thine tin tine tint wie
+thin: feh fein fen fib fihh fin fine fing finn flen fomer foram frene fthi inen lind rune sin than thehe then ther thiden thine tin tine tint wie
 thing: then thin things thng ting
 things: fens thigs thing think tings
 think: thick thinck thing thingk thinke tink
@@ -5596,8 +5568,6 @@ tired: tiered tiried tried
 tiring: tiering
 title: tittle
 titles: tittles
-to: of ot ro th the too tow two
-to-day's: to-days to_days todaies today's todays todays' two_days
 toad: toed
 toads: roads
 toast: tost
@@ -5639,7 +5609,6 @@ tournament: atournament hermit teramant termament termanent termenent termenont 
 toward: tord
 towel: towl
 town: toun tower
-toys: toy
 trace: trase
 track: trak
 tracksuit: crake_suit crast crot_sot fraske_stinte san_sote tack_soot tack_sote tack_tot tacksot tak_sar taksot taren_deng tark_suit tarseet thiksawet thracant thret tone_setch tornk_suint tour_soter trac_soot trac_suit trach_soot track-sl track_saut track_soot track_suite tracksoot tracksurt tracsant tracsute tract_siut trak-suit trak_shute trak_soat trak_suait trak_suit trake_suit treksot trik_sack trock_soot trockset
@@ -5810,10 +5779,9 @@ upstairs: upstaires
 urge: earge erge
 urgency: urgu
 urgently: ungertly
-us: a ares as use
 usable: usu
 usage: useage
-use: used yous yowes
+use: yous yowes
 used: us us't use usedf uses uset ust usued you yourst yous yoused youst
 used_all: uasall
 used_to: use_to uses yosto you yousto
@@ -5843,7 +5811,7 @@ valentine: valintine
 valley: fal vailey vale valelle valey vallay vallaye vallery vallie valliy vally valy vary vaty velei vialla vieavel villge villy vleay vlet
 valuable: valubale valuble valueable
 value: vaule
-van: anthe can fan fane farn fune vam vand vane vanr vant veam vend vene vetfei vin von vuin vun
+van: anthe fane farn fune vam vand vane vanr vant veam vend vene vetfei vin von vuin vun
 vandalism: vanderlisium vanderlism vandolism
 vandals: vandles
 variable: vaiable varable varible
@@ -5945,11 +5913,7 @@ water: wather watter weter
 watercolours: water_colours
 waterworks: water_works
 way: uay wa wye
-ways: was way
 we: be wee weed wen were wey when wot you
-we'll: we'el
-we're: where
-weak: week
 wealth: wealh welth
 wealthy: welthy
 weapons: wepons
@@ -5983,24 +5947,18 @@ well-suited: well_suited
 well_as: will
 well_illustrated: well-illustrated
 went: want wen wen't wend when whent wot
-were: here waer wain war was we wear weer went wer werh wey wher where whey whir why wont wore wre wree wur yer
-weren't: were'nt werent
-west: wast
 western: westen
 what: wait want wat wate weot wete whia who whot wich with woat woht woot wot wote
 whatever: watever what_ever
 wheat: weat
 wheel: weel
-wheelchair: wheel_chair
-wheelbarrow: wheel_barrow
-when: wane want we wen wene went wern weten whan wheh whene where whern whet whn wian will wine
 whenever: when_ever
-where: gaing hwere ther there war ware wart we wear wee wer were werre wet wher whrer wir with wuy
+where: gaing hwere wer werre wet wher whrer wir with wuy
 whereas: wheras
 whereby: were wherby
 wherever: wereever whereever
 whether: weather wether wheather whetherr
-which: weich wgich whch whic whih whihc whitch wich wiche wick wicth witch with withe wo
+which: weich wgich whch whic whih whihc whitch wich wiche wick wicth withe wo
 whiff: wift
 while: wile wilh will
 whip: wip
@@ -6010,7 +5968,7 @@ whistling: shisterling shning swiling warcing was_fill welleings welt werting we
 white: wite
 whites: wittes
 whitewash: white-wash
-who: dae heo her ho hole hon hoo hoor hoow hor hot hou hour how hu hwo ohw onelhelh ot our ow owe roow thow want whoe whow whoy why wo woh woth wow
+who: dae heo her ho hon hoo hoor hoow hor hot hou hu hwo ohw onelhelh ot our ow owe roow thow whoe whow whoy wo woh woth
 whoever: who_ever
 whole: hole
 wholesale: holesale wholsale
@@ -6027,7 +5985,7 @@ width: with
 wife: wilf
 wig: weg
 wild: wile
-will: ill well wiil wil with wull
+will: wiil wil wull
 willing: welling wiling
 willow: wilow
 win: wen wind
@@ -6071,14 +6029,12 @@ woolen: wollen
 woollen: woolen
 woollens: woolens
 word: ward wood
-words: word
-wore: war wor
+wore: wor
 work: warck wark werk wh woke wolk worke worked
 worked: work workt worted
 workers: work
 working: warking woking
-works: work
-world: wald wholed wold word worde would wourld
+world: wald wholed wold worde wourld
 world's: world
 worn: warn
 worried: woried worred
@@ -6123,9 +6079,6 @@ yeoman: yoman
 yes: yas
 yet: yat
 yield: yeild
-you: na uoy w yau yo your yow yoy yuo
-you'll: you'l your
-you're: your
 young: lar yae yem yoand yong yorug youg your
 youngest: youngeist
 your: ore ure yer yere yor yore you young youre yowr
