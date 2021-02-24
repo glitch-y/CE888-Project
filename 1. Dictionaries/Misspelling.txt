@@ -4,7 +4,7 @@ RSX: rsx
 Stephen: Steffen
 Susan: susan
 ability: abilitey
-about: abouy
+about: abouy bout
 absorption: absorbtion
 accidentally: accidently
 accommodate: accomodate acommadate
@@ -208,6 +208,7 @@ hyphen: hifin hifine hiphine hyfin
 hypothesis: hypotathes hypotathese
 hysterical: hystrical
 illegitimate: illegitament
+I_am: im
 immanent: immenant
 immediately: imediaetly
 implements: implemtes
