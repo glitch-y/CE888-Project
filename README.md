@@ -13,4 +13,4 @@ For 'Assignment 1', there are 3 relevant folders in this repository:
   2. Scripts
   3. Datasets
 
-Folders and files relating to 'Assignment 2' will be created in line with the modelling work.
+Folders and files relating to 'Assignment 2' will be created as the modelling work progresses.
