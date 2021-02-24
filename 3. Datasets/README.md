@@ -19,3 +19,10 @@ as per the TweetEval Git repository.
 
 Each file has one tweet per line in the preprocessed format. Each file has one ID, one label and one description of the label per line 
 which maps to its corresponding tweet. 
+
+=== LABELS ===
+
+ - Emotion Recognition - 4 labels: anger, joy, sadness, optimism
+ - Hate Speech Detection - 2 labels: hateful, not hateful
+ - Offensive Language Identification - 2 labels: offensive, not offensive
+
