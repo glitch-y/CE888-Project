@@ -5,6 +5,7 @@ This repository contains all the relevant codes and datasets used as part of the
 This will be done through a variety of data preprocessing techniques and models.
 
 === Structure ===
+
 Each folder contains a README.md file describing their respective contents and how the files should be used.
 
 For 'Assignment 1', there are 3 relevant folders in this repository:
