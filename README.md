@@ -1,7 +1,7 @@
 # CE888-Project 2
 Repository for CE888 Assignments 1 and 2
 
-This repository contains all the relevant codes and datasets used as part of the CE888 Project (Assignments 1 & 2). The project is based on the TweetEval framework put in place by Cardiff University and will aim to build on the framework in order to obtain better accuracy scores. 
+This repository contains all the relevant codes and datasets used as part of the CE888 Project (Assignments 1 & 2). The project is based on the TweetEval framework put in place by Cardiff University. It will aim to build on this framework in order to obtain better accuracy scores. 
 This will be done through a variety of data preprocessing techniques and models.
 
 === Structure ===
