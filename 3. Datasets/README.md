@@ -2,15 +2,15 @@ This README describes the format, file and directory structure associated with t
 as per the TweetEval Git repository.
 
 === DIRECTORY STRUCTURE ===
-- 1. Emotion
+  1. Emotion
   - mapped_emotion_test.csv
   - mapped_emotion_train.csv
   - mapped_emotion_val.csv
-- 2. Hate
+  2. Hate
   - mapped_hate_test.csv
   - mapped_hate_train.csv
   - mapped_hate_val.csv
-- 3. Offensive
+  3. Offensive
   - mapped_offensive_test.csv
   - mapped_offensive_train.csv
   - mapped_hate_val.csv
