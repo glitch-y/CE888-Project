@@ -13,6 +13,6 @@ This README describes the structure associated with the scripts for processing t
   - removal of user mentions
   - mapping of tweets as per the TweetEval guidance
   - exploration of mapped data
-  - the outputs from each of the 3 preprocessing scripts are located in folder 3. Datasets of this repository
+  - the outputs from each of the 3 scripts are located in folder '3. Datasets' of this repository
   - the RoBERTa Base and XLNet model set up, training and evaluation using the F1 Macro Averaged Score.
   
