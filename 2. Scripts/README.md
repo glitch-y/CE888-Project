@@ -1,7 +1,8 @@
 This README describes the structure associated with the scripts for processing the TweetEval data sets for 'emotion', 'hate' and 'offensive'.
 
 === Code Desciptions ===
-  The scripts for classification follow the same approach for all 3 categories of data: 'emotion', 'hate', 'offensive'.
+
+  The scripts for classification follow the same approach for all 3 categories of data: 'emotion', 'hate', 'offensive'. To run, open the scripts in Google Colab and 'run all'. Please make sure a GPU is enabled as the models are set to run on a CUDA.
   - data import
   - replacement of misspelled words
   - replacement of internet slang abbreviations
