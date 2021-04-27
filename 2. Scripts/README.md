@@ -1,7 +1,7 @@
 This README describes the structure associated with the scripts for processing the TweetEval data sets for 'emotion', 'hate' and 'offensive'.
 
 === Code Desciptions ===
-  1. The preprocessing codes follow an identical approach as per below:
+  The scripts for classification follow the same approach for all 3 categories of data: 'emotion', 'hate', 'offensive'.
   - data import
   - replacement of misspelled words
   - replacement of internet slang abbreviations
