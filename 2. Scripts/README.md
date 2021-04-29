@@ -18,4 +18,5 @@ This README describes the structure associated with the scripts for processing t
   - evaluation of results using normalised confusion matrices 
 
 === How to Run Code ===
-To run, open the scripts in Google Colab and 'run all'. Please make sure a GPU is enabled as the models are set to run on a CUDA.
+
+To run code, open the scripts in Google Colab and 'run all'. Please make sure a GPU is enabled as the models are set to use_CUDA = True.
